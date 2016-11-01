@@ -14,4 +14,3 @@ y <- m*x+b+esp
 plot(x,y, cex=.5, col="blue")
 
 #####
-abline(lm(y~x), lyt=2, col="red", lwd=2)
